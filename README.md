@@ -13,6 +13,7 @@ Meu Nome e Ariane
   <img align="center" alt="Ane-Ag" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Ane-Ag" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>  
+<br>
 
 <div> 
   <a href="https://www.instagram.com/ariane1420/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
