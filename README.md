@@ -1,8 +1,8 @@
 ### Hi there 👋
 Meu Nome e Ariane
 - 🔭  Atualmente trabalho como consultora em loja pretendo migrar para área de tecnologia sei que não e fácil mas pretendo chegar ao meu objetivo.
-- 🌱 I’m currently  estudando computação em nuvem
-- 👯 I’m looking to uma oportunidade  analista de solução em nuvem
+- 🌱 Cursando Barcharelado em Tecnologia da Informação
+- 👯 I’m looking to uma oportunidade  de estagio
 - 🤔  Já desenvolvi alguns projetos em HTML CSS apenas para aplicar o conhecimento na pratica.
 - 💬  Ainda tenho muito que aprender. Próximo semestre início faculdade Tecnologia da Informação 
 <div>
